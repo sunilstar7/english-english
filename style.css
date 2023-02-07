@@ -1,0 +1,46 @@
+
+body,
+html { 
+  height: 100%;
+  width: 100%;
+  background: url(valley.jpg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+h1 {
+
+  background-color: yellow;
+  color: darkred;
+  font-size: 5rem;
+}
+
+.btn-xl {
+   padding: 1rem 2rem;
+
+
+}
+.buffer{
+  height: 10px;
+}
+
+.btn{e
+  font-weight: 700;
+  border-radius: 200px;
+  text-transform: uppercase;
+}
+.btn-primary{
+  background-color: orange;
+  border-color: orange;
+}
+.btn-primary:hover{
+  background-color: purple;
+  border-color: black;
+  border-width: 20px;
+}
+.col{
+  border:2px solid darkred;
+  background-color: white;
+}
